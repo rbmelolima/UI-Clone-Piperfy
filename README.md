@@ -3,9 +3,9 @@
 
 O objetivo deste projeto é recriar a interface principal do Piperfy, para tanto utilizei React.js e Styled Components. Conforme o desenrolar do projeto, aprendi mais sobre estilização utilizando o Styled Components e o uso da API de Drag in Drop.
 
-[![Piperfy - Original](as "Piperfy - Original")](./docs/piperfy_original.png)
+![Piperfy - Original](./docs/piperfy_original.png)
 
-[![Piperfy - Clone](as "Piperfy - Clone")](piperfy_clone.png)
+![Piperfy - Clone](./docs/piperfy_clone.png)
 
 ## Depedências do projeto
 - immer
