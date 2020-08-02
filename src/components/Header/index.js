@@ -4,7 +4,7 @@ import { Container } from './styles';
 export default function Header() {
   return (
     <Container>
-      <h1>Rocketfy</h1>
+      <h1>Piperfy</h1>
     </Container>
   );
 }
